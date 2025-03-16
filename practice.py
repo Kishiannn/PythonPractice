@@ -17,3 +17,9 @@ print("This is a very long line of comment i want it to divide it into" +
     that i learned 
     Amazing 
 '''
+
+Greet = "Hello"
+print(type(Greet))
+## result: <class 'str'>
+print(Greet)
+## result: Hello
